@@ -1,7 +1,5 @@
-## Hi there 👋
+Olá, sou a Martina!  👋
 
-💫 About Me:
-Olá, eu sou Martina! 
 👋<br><br>Sou estudante de Sistemas para Internet apaixonada por tecnologia, <br>sempre em busca de novos desafios e aprendizado constante.<br><br>
 🚀 Sobre mim:<br><br>💻 Apaixonada por desenvolvimento  e tecnologia;<br><br>📚 Sempre aprendendo algo novo e aprofundando aprendizados;<br><br>
 🎯 Buscando solucionar problemas reais com código.<br><br>
