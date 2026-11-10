@@ -1,10 +1,9 @@
 ## Olá, sou a Martina!  👋
-Sou estudante de Sistemas para Internet<br><br>
 
-🚀 Sobre mim:<br><br>💻 Apaixonada por desenvolvimento  e tecnologia;<br><br>📚 Sempre aprendendo algo novo e aprofundando aprendizados;<br><br>
-🎯 Buscando solucionar problemas reais com código.<br><br>
 
-🛠️ Tecnologias e Ferramentas:<br><br>Linguagens: Java, JavaScript, HTML, CSS;<br><br>Frameworks & Bibliotecas:  Angular, Node.js;<br><br>Ferramentas: Github, VsCode, Figma;<br><br>
+🚀 Sobre mim:<br><br>💻 Apaixonada por desenvolvimento  e tecnologia;<br><br>📚 Estudante de Sistemas para Internet;<br><br>
+🛠️ Tecnologias e Ferramentas:<br><br>
+Linguagens: Java, JavaScript, HTML, CSS;<br><br>Frameworks & Bibliotecas:  Angular, Node.js;<br><br>Ferramentas: Github, VsCode, Figma;<br><br>
 📫 Como me encontrar:<br><br>GitHub: github.com/martinaszsz<br><br>LinkedIn: linkedin.com/in/martinasilvaa<br><br>Email: ma.silva39@gmail.com<br>
 
 
